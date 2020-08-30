@@ -1,0 +1,11 @@
+v user.js pishem vsichko do getLogout funckiqta
+v home.hbs da imame header i footer
+v app.js dobavqme vsichko do getlogout
+v user.js exportvame vsichki funckii do getlogout
+v auth.js exportvame setUserInfo i setHeader
+v home.js exportvame getHome funckiqta
+predi vsichki failove si razdelqme htmla na otdelni templeiti
+v partial.js si exportvame headra i footera
+pyrvo pishem vsichki funckii v app.js i sled tova gi razdelqme
+i pishem vsqka po otdelno v user.js
+vyv firebase vzimame konfiguraciqta ot saita 
